@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Paulo Nascimento 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Ol%C3%A1!+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F;Me+chamo+Jo%C3%A3o+Paulo+Nascimento" alt="Typing SVG" /></a>
 - 🔭 Atualmente estou trabalhando como freelancer
 - 🌱 Atualmente estou aprendendo
 
