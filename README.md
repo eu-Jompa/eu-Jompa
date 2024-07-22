@@ -2,28 +2,20 @@
 - 🔭 Atualmente estou trabalhando como freelancer
 - 🌱 Atualmente estou aprendendo JavaScript
 
-
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=eu-Jompa&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark), card_width= 280px"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=eu-Jompa&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), width= 280px"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&card_width= 280px" />
 </picture>
 
-
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight#gh-dark-mode-only&card-width=300px)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only&card-width=300px)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
-
-
 <h3>Linguagens</h3>
-<div style="display: inline_block">
+<div style="display: inline_block;">
 
   <img align="center" alt="Jompa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jompa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -36,11 +28,6 @@
   <a href="https://www.linkedin.com/in/jpnascimentoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eu-Jompa/eu-Jompa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eu-Jompa/eu-Jompa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eu-Jompa/eu-Jompa/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
