@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Bem+vindo+ao+meu+Github!+%F0%9F%98%8A)](https://git.io/typing-svg)
+
 ![Banner-principal](/img/Banner%20de%20Formatura%20com%20Carreata%20Lúdico%20e%20Comemorativo%20em%20Roxo%20e%20Laranja.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Ol%C3%A1!+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F;Me+chamo+Jo%C3%A3o+Paulo+Nascimento" alt="Typing SVG" /></a>
+
 - 🔭 Atualmente estou trabalhando como freelancer
 - 🌱 Atualmente estou aprendendo JavaScript
 
