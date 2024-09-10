@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Bem+vindo+ao+meu+Github!+%F0%9F%98%8A)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" style= align:"center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Bem+vindo+ao+meu+Github!+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 ![Banner-principal](/img/Banner%20de%20Formatura%20com%20Carreata%20Lúdico%20e%20Comemorativo%20em%20Roxo%20e%20Laranja.gif)
 
