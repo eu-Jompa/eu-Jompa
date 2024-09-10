@@ -2,7 +2,7 @@
 
 ![Banner-principal](/img/Banner%20de%20Formatura%20com%20Carreata%20Lúdico%20e%20Comemorativo%20em%20Roxo%20e%20Laranja.gif)
 ---
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza. Atualmente estudando sobre JavaScript e Python. Estou buscando melhorar meus conhecimentos e traçando novos desafios na área de tecnologia. 
+<p>Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza. Atualmente estudando sobre JavaScript e Python. Estou buscando melhorar meus conhecimentos e traçando novos desafios na área de tecnologia. <p>
 ---
 - 🔭 Atualmente estou trabalhando como freelancer
 
